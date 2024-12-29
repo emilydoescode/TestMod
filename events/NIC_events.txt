@@ -1,0 +1,15 @@
+add_namespace = NIC_stuff
+
+country_event = {
+	id = NIC_stuff.1
+	immediate = { log = "[GetDateText]: [Root.GetName]: event NIC_stuff.1" }
+	title = NIC_stuff.1.t
+	desc = NIC_stuff.1.desc
+	picture = GFX_report_event_generic_read_write
+
+	is_triggered_only = yes
+
+	option = {
+		name = NIC_stuff.1.a
+	}
+}

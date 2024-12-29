@@ -1,0 +1,10 @@
+NIC_general_decisions = {
+	NIC_hello = {
+		priority = 600
+		icon = GFX_decision_eng_blackshirt_speech
+		complete_effect = {
+			log = "[GetDateText]: [Root.GetName]: decision NIC_hello"
+			country_event = NIC_stuff.1
+		}
+	}
+}

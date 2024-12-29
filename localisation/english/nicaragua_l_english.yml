@@ -1,3 +1,10 @@
-l_english:
+﻿l_english:
  NIC_first_foci: "The First Focus"
- NIC_first_foci: "I enable a deccat!"
+ NIC_first_foci_desc: "I enable a deccat!"
+ NIC_first_foci_tooltip: "§RHey!§!"
+
+ NIC_general_decisions: "General Decions"
+
+ NIC_stuff.1.t: "GUI"
+ NIC_stuff.1.desc: "here lies the soul of emmy"
+ NIC_stuff.1.a: "please work"
