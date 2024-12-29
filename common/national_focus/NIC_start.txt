@@ -1,0 +1,12 @@
+shared_focus = {
+	id = NIC_first_foci
+	icon = GFX_goal_continuous_air_production
+	cost = 0
+	x = 5
+	y = 0
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus NIC_first_foci"
+		custom_effect_tooltip = NIC_first_foci_tooltip
+		set_country_flag = skibidi
+	}
+}

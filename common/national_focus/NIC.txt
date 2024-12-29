@@ -1,0 +1,12 @@
+focus_tree = {
+	id = NIC_start
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = NIC
+		}
+	}
+	default = no
+	shared_focus =  NIC_first_foci
+}
